@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Form1.resources
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Properties.Resources.resources
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.frmNewAccount.resources
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.frmAccountStatement.resources
+C:\Users\Dell\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.frmMoneyTransactions.resources

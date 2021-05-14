@@ -1,0 +1,6 @@
+3;ACC6905;8.04.2021;300;yatırılan.
+4;ACC3228;8.04.2021;500 EURyatırılan.
+5;ACC7644;9.04.2021;50;EUR Yatırma İşlemi
+5;ACC7644;10.04.2021;50;System.Windows.Forms.ComboBox+ObjectCollection
+5;ACC7644;10.04.2021;50;EUR
+5;ACC7644;10.04.2021;5;EUR
